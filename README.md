@@ -19,14 +19,6 @@
 </a>
 </div>
 <br>
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-- 💼 &nbsp; Willing to learn new technologies.
-- 💻 &nbsp; Interested in Full-Stack Web Development.
-- 📚 &nbsp; Bachelor of Science in Information Technology.
-
-<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 <br>
@@ -44,6 +36,16 @@
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 	
 <br>
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+- 💼 &nbsp; Willing to learn new technologies.
+- 💻 &nbsp; Interested in Full-Stack Web Development.
+- 📚 &nbsp; Bachelor of Science in Information Technology.
+
+<br>
+
+
    
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
