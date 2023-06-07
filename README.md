@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=+Hi+there,;I'm+Jhon+Eric+Aton;Studies+at+University+of+Rizal+System;Aspiring+Full-Stack+Web+Developer;Aspiring+Software+Developer;I'm+a+Student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=+Hi+there,;I'm+Jhon+Eric+Aton;Studies+at+University+of+Rizal+System;Aspiring+Software+Developer;I'm+a+Student"></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
