@@ -52,6 +52,7 @@
 - 💻 &nbsp; Interested in Full-Stack Web Development.
 - 📚 &nbsp; Bachelor of Science in Information Technology.
 
+<br>
 
 
    
