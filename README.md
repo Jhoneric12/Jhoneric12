@@ -23,7 +23,19 @@
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 	
+
 <br>
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+- 💼 &nbsp; Willing to learn new technologies.
+- 💻 &nbsp; Interested in Full-Stack Web Development.
+- 📚 &nbsp; Bachelor of Science in Information Technology.
+
+<br>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -37,18 +49,6 @@
 
 </a>
 </div>
-<br>
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-- 💼 &nbsp; Willing to learn new technologies.
-- 💻 &nbsp; Interested in Full-Stack Web Development.
-- 📚 &nbsp; Bachelor of Science in Information Technology.
-
-<br>
-
 
    
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
