@@ -51,7 +51,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 💼 &nbsp; skills development seeker.
+- 💼 &nbsp; Skills development seeker.
 - 💻 &nbsp; Software development enthusiast.
 - 📚 &nbsp; Bachelor of Science in Information Technology.
 
