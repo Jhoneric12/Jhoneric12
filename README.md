@@ -51,8 +51,8 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 💼 &nbsp; Striving to learn new technologies.
-- 💻 &nbsp; Interested in Full-Stack Web Development.
+- 💼 &nbsp; skills development seeker.
+- 💻 &nbsp; Software development enthusiast.
 - 📚 &nbsp; Bachelor of Science in Information Technology.
 
 <br>
