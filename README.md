@@ -7,7 +7,7 @@
 </p>
 
 - 👋 Hi, I'm Jhon Eric
-- 💼 I'm a Web Developer
+- 💼 Currently sharpening my development skills
 - 💬 Talk to me about freelancing opportunities in web development and software engineering.
 - 👯 I’m looking to collaborate on front-end and backend projects.
 <br>
