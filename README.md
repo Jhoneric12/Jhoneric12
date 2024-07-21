@@ -11,7 +11,8 @@
 - 💬 Talk to me about freelancing opportunities in web development and software engineering.
 - 👯 I’m looking to collaborate on front-end and backend projects.
 <br>
-https://buymeacoffee.com/hustleric
+<a href="https://buymeacoffee.com/hustleric" target="_blank" style="display:inline-block;background-color:#FFDD00;color:#000;text-align:center;padding:10px 20px;border-radius:5px;text-decoration:none;font-weight:bold;">Buy Me a Coffee</a>
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
    <p align="center">
