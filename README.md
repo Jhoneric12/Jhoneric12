@@ -7,7 +7,7 @@
 </p>
 
 - 👋 Hi, I'm Jhon Eric.
-- 💼 Currently sharpening my development skills.
+- 💼 Full-Stack developer specialized in front-end development.
 - 💬 Talk to me about freelancing opportunities in web development and software engineering.
 - 👯 I’m looking to collaborate on front-end and backend projects.
 <br>
