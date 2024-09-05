@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+a+Software+Developer" /></a>
 </p>
 
-- 👋 Hi, I'm Jhon Eric, an aspiring SAAS founder/entrepreneur.
+- 👋 Hi, I'm Jhon Eric.
 - 💼 Full-Stack developer specialized in front-end development.
 - 💬 Talk to me about freelancing opportunities in web development and SAAS.
 - 👯 I’m looking for collaboration on front-end and backend projects.
